@@ -17,6 +17,8 @@ but you're probably somebody I know
 
 so you probably know anyways!11
 
+oh wait i wrote it in the repl section lol
+
 # can i use this as an npm dependency???
 
 lol no
