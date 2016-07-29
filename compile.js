@@ -53,6 +53,8 @@ promptp('INPUT>> ').then(INPUT => {
       cool
       !!!!!1111111
       !!!!!!!!!!!!!!11
+    } else if (INPUT === "nanalan") {
+      console.log("oh my goodness just make it nearley-made already 😞")
     }
 
     console.error('bad input')
