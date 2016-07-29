@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs-promise": "^0.5.0",
+    "nearley-make": "^1.0.0",
+    "prompt-promise": "^1.0.3"
+  }
+}

@@ -1,0 +1,2 @@
+Program -> ANYTHING:*
+ANYTHING -> . | "\n"
